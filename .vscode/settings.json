@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/cactus/Cargo.toml",
+        "./programs/cactus/Cargo.toml"
+    ]
+}
